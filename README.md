@@ -1,3 +1,4 @@
+{% include_relative head.html %}
 yo
 test
 ====Welcome Yo
