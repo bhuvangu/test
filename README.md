@@ -1,6 +1,5 @@
-{% include_relative head.html %}
-yo
-test
-====Welcome Yo
+{% include_relative header.html %}
 
-{% include_relative test_footer.md %}
+All content goes here. Be sure to include both header.html and footer.html on every pages
+
+{% include_relative footer.html %}
