@@ -119,10 +119,10 @@
 }
 .markdown-body img{
     max-width:100%;
-    box-sizing:initial;
+    box-sizing:inherit;
     background-color:initial
 }
-body {
+.body {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
@@ -130,7 +130,7 @@ body {
     background-color: #fff;
 }
 .main-content {
-    margin-top: calc(92px + 15px + 10px)    
+    margin-top: calc(42px + 15px + 10px)    
 }
 
 .nav-group {
@@ -267,11 +267,6 @@ a.navbar-brand {
 
 .btn.btn-signup:hover {
     color: #269abc!important;
-}
-
-a:hover, a:active {
-    outline: 0;
-    color: white;
 }
 
 .cg-navbar-text {
