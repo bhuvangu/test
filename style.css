@@ -1,5 +1,6 @@
 .container-lg {
     width: auto !important;
+    max-width: initial;
 }
 .markdown-body{
     font-family:initial;
@@ -120,6 +121,13 @@
     max-width:100%;
     box-sizing:initial;
     background-color:initial
+}
+body {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
 }
 .main-content {
     margin-top: calc(92px + 15px + 10px)    
