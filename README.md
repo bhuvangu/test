@@ -1,3 +1,9 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
+{% include_relative header.html %}
+
 Welcome to Codeground Harvester API. Harvester api provides capabilities of 
 ---
 
@@ -12,5 +18,5 @@ Codeground API is REST styled API which uses API Key for authentication, and ret
 
 To get started, head to Pre-requisite section
 
-
+{% include_relative footer.md %}
 
