@@ -58,12 +58,13 @@ Status Code: 602
 
 ```
 Status Code: 600
-{"errorMessage": "Page number can't be negative"}
+{"errorMessage": "apiKey can't be null"}
 or 
 {"errorMessage": "apikey not mapped to a user"}
 ```
 
-
-
+```
+Status Code: 500
+{"errorMessage": "Internal Server Error, please share the exception id with the CG team::Exception id is xxxxx"}
 ```
 
