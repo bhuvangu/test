@@ -1,6 +1,4 @@
-{% include_relative head.html %}
-{% include_relative style.css %}
-{% include_relative header.html %}
+{% include_relative header.md %}
 
 Welcome to Codeground Harvester API. Harvester api provides capabilities of 
 
@@ -16,4 +14,4 @@ Codeground API is REST styled API which uses API Key for authentication, and ret
 To get started, head to Pre-requisite section
 
 
-{% include_relative footer.html %}
+{% include_relative footer.md %}
