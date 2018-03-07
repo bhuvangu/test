@@ -1,8 +1,8 @@
-/*
 .container-lg {
     width: auto !important;
     max-width: initial;
 }
+/*
 .markdown-body{
     font-family:initial;
     font-size:initial;
@@ -123,6 +123,7 @@
     box-sizing:inherit;
     background-color:initial
 }
+*/
 .body {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-size: 14px;
@@ -306,4 +307,4 @@ a {
     font-weight: 700;
 }
 
-*/
+
