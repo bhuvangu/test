@@ -1,8 +1,3 @@
----
-title: This will be used as the title-tag of the page head
----
-
-{% include_relative header.html %}
 
 Welcome to Codeground Harvester API. Harvester api provides capabilities of 
 ---
