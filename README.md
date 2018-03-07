@@ -14,4 +14,4 @@ Codeground API is REST styled API which uses API Key for authentication, and ret
 To get started, head to Pre-requisite section
 
 
-{% include_relative footer.md %}
+
