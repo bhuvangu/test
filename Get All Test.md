@@ -16,7 +16,7 @@ https://BASE-URL/harvest/api/v1/getLiveTests/{pageNo}
 
 Sample Response Data
 ---
-Returns a array of Object, where each object represent a test live.
+Returns a array of Object, where each object represent a live test .
 ```
 [
     {
