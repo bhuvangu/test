@@ -46,3 +46,22 @@ Returns a array of Object, where each object represent a test live.
     }
 ]
 ```
+
+Possible Exceptions
+---
+```
+Status Code: 602
+{"errorMessage": "Page number can't be negative"}
+```
+
+```
+Status Code: 600
+{"errorMessage": "Page number can't be negative"}
+or 
+{"errorMessage": "apikey not mapped to a user"}
+```
+
+
+
+```
+
